@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Rock+Salt&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+* {
+  font-family: 'Permanent Marker', cursive;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#home {
+  width: 100vw;
+  height: 200vh;
+  background-color: #000;
+}
+#bg {
+  position: fixed;
+  top: 54px;
+  left: 0;
+  z-index: 0;
+}

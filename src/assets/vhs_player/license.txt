@@ -1,0 +1,11 @@
+Model Information:
+* title:	VHS Player
+* source:	https://sketchfab.com/3d-models/vhs-player-59fdff45913447a09861de433cbefcd4
+* author:	Qu3st10n (https://sketchfab.com/Qu3st10n)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VHS Player" (https://sketchfab.com/3d-models/vhs-player-59fdff45913447a09861de433cbefcd4) by Qu3st10n (https://sketchfab.com/Qu3st10n) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
