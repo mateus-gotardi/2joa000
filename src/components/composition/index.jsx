@@ -7,15 +7,15 @@ import { Environment, OrbitControls } from "@react-three/drei";
 import { Suspense } from "react";
 
 const TvModel = (props) => {
-  const gltf = useLoader(GLTFLoader, "/src/assets/retro_tv/scene.gltf");
+  const gltf = useLoader(GLTFLoader, 'assets/retro_tv/scene.gltf');
   return <primitive object={gltf.scene} scale={0.7} {...props} />;
 };
 const VhsPlayerModel = (props) => {
-  const gltf = useLoader(GLTFLoader, "/src/assets/vhs_player/scene.gltf");
+  const gltf = useLoader(GLTFLoader, 'assets/vhs_player/scene.gltf');
   return <primitive object={gltf.scene} scale={0.13} {...props} />;
 };
 const VhsModel = (props) => {
-  const gltf = useLoader(GLTFLoader, "/src/assets/vhs/scene.gltf");
+  const gltf = useLoader(GLTFLoader, 'assets/vhs/scene.gltf');
   return <primitive object={gltf.scene} scale={5} {...props} />;
 };
 
